@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1596029698 source:c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"bicicletas.h"
+
+1589219982 c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\utn.h
+
+1595746483 c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\linkedlist.h
+
+1596029698 c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\bicicletas.h
+	"bicicletas.h"
+	"LinkedList.h"
+
+1595746414 source:c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1596029601 source:c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"LinkedList.h"
+	"bicicletas.h"
+	"parser.h"
+
+1596029713 c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\parser.h
+	"LinkedList.h"
+
+1589220076 source:c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1596030053 source:c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"bicicletas.h"
+	"LinkedList.h"
+
