@@ -12,8 +12,10 @@ typedef struct
     int tiempo;
 }eBicicleta;
 
+
 eBicicleta* bicicletaNew();
 void bicicletaDelete(eBicicleta* x);
+
 
 int bicicletaSetId(eBicicleta* x, int id);
 int bicicletaSetNombre(eBicicleta* x, char* nombre);

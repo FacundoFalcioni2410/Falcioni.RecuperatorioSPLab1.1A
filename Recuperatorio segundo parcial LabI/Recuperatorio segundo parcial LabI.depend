@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1596029698 source:c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\bicicletas.c
+1596030966 source:c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\bicicletas.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -11,7 +11,7 @@
 
 1595746483 c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\linkedlist.h
 
-1596029698 c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\bicicletas.h
+1596030966 c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\bicicletas.h
 	"bicicletas.h"
 	"LinkedList.h"
 
@@ -21,7 +21,7 @@
 	<string.h>
 	"LinkedList.h"
 
-1596029601 source:c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\main.c
+1596030988 source:c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -30,6 +30,7 @@
 	"LinkedList.h"
 	"bicicletas.h"
 	"parser.h"
+	"informes.h"
 
 1596029713 c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\parser.h
 	"LinkedList.h"
@@ -46,4 +47,14 @@
 	<stdlib.h>
 	"bicicletas.h"
 	"LinkedList.h"
+
+1596030733 source:c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"bicicletas.h"
+
+1596030733 c:\users\facu falcioni\desktop\falcioni.recuperatoriosplabi.1a\recuperatorio segundo parcial labi\informes.h
 

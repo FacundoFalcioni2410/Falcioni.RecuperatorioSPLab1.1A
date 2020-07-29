@@ -6,6 +6,7 @@
 #include "LinkedList.h"
 #include "bicicletas.h"
 #include "parser.h"
+#include "informes.h"
 
 void menu(int* option);
 
